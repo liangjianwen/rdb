@@ -169,7 +169,7 @@ const (
 )
 
 const (
-	rdbVersion  = 9
+	rdbVersion  = 11
 	rdb6bitLen  = 0
 	rdb14bitLen = 1
 	rdb32bitLen = 0x80

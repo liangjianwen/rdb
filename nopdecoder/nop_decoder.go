@@ -1,6 +1,6 @@
 package nopdecoder
 
-import "github.com/dongmx/rdb"
+import "github.com/liangjianwen/rdb"
 
 type Info = rdb.Info
 type StreamGroups = rdb.StreamGroups

@@ -1,4 +1,4 @@
-module github.com/dongmx/rdb
+module github.com/liangjianwen/rdb
 
 go 1.20
 
